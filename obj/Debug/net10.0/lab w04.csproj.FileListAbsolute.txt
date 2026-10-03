@@ -1,4 +1,0 @@
-D:\lab w04\obj\Debug\net10.0\lab w04.GeneratedMSBuildEditorConfig.editorconfig
-D:\lab w04\obj\Debug\net10.0\lab w04.AssemblyInfoInputs.cache
-D:\lab w04\obj\Debug\net10.0\lab w04.AssemblyInfo.cs
-D:\lab w04\obj\Debug\net10.0\lab w04.csproj.CoreCompileInputs.cache
